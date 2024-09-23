@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\bin\Release\net8.0\09-23Csharp.exe
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\bin\Release\net8.0\09-23Csharp.deps.json
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\bin\Release\net8.0\09-23Csharp.runtimeconfig.json
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\bin\Release\net8.0\09-23Csharp.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\bin\Release\net8.0\09-23Csharp.pdb
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\refint\09-23Csharp.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.pdb
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\09-23Csharp.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\09-23Csharp\obj\Release\net8.0\ref\09-23Csharp.dll

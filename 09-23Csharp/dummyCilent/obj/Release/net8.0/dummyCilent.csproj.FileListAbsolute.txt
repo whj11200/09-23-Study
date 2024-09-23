@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\bin\Release\net8.0\dummyCilent.exe
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\bin\Release\net8.0\dummyCilent.deps.json
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\bin\Release\net8.0\dummyCilent.runtimeconfig.json
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\bin\Release\net8.0\dummyCilent.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\bin\Release\net8.0\dummyCilent.pdb
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\refint\dummyCilent.dll
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.pdb
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\dummyCilent.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\09-23Csharp\dummyCilent\obj\Release\net8.0\ref\dummyCilent.dll
